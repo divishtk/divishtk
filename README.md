@@ -61,6 +61,13 @@ Here are some ideas to get you started:
 
 
 
+
+
+
+
+
+
+
 ### Cloud:
 <img align="left" alt="medium" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></br></br>
 
