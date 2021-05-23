@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 
 
 
+
+
 ### Frameworks Stack:
 <img align="left" alt="medium" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img align="left" alt="medium" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
@@ -67,6 +69,7 @@ Here are some ideas to get you started:
 
 
 
+</br>
 
 ### Cloud:
 <img align="left" alt="medium" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></br></br>
