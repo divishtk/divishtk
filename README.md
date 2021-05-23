@@ -1,21 +1,27 @@
 ### Hi there 👋
-## I am Divisht 
+## I am a Tech Enthusiast,Movie Buff and Like Learning New Things.
 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Dsa And Web Development Skills.
+- 🌱 I’m currently learning Mern Stack and Python.
+- 💬 Ask me about Java ,Python & Node/React/Express.
+- 📫 How to reach me: divisht.avion@gmail.com
 
 
 
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> 
+
+Connect With Me:</br>
+<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+
+<img align="left" alt="medium" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+
+
+
+
+
 
 
 ![Divishts GitHub stats](https://github-readme-stats.vercel.app/api?username=divishtk)
