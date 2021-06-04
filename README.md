@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Dsa And Web Development Skills.
+- 🔭 I’m currently working on DSA
 - 🌱 I’m currently learning Mern Stack and Python.
 - 💬 Ask me about Java ,Python & Node/React/Express.
 - 📫 How to reach me: divisht.avion@gmail.com
