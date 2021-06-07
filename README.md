@@ -2,7 +2,7 @@
 
 ## I am a Tech Enthusiast,Movie Buff and Like Learning New Things.
 
-
+  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" >
 Here are some ideas to get you started:
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 - 🔭 I’m currently working on DSA
@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: divisht.avion@gmail.com
 
   <!--<img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>-->
-  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+  
+
 
 
 
