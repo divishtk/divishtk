@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 ### Connect With Me:
 
-<a href="https://www.linkedin.com/in/divisht-kori-328570174/"><img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
-<a href="https://github.com/divishtk
-"><img align="left" alt="medium" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img align="left" alt="medium" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></br></br></br>
+<a href="https://www.linkedin.com/in/divisht-kori-328570174/"><img align="left" alt="medium" src="https://img.shields.io/badge/DIVISHT K-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
+<a href="https://github.com/divishtk"><img align="left" alt="medium" src="https://img.shields.io/badge/DIVISHT K-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  
+  </br></br>
 
 
 
