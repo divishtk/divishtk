@@ -1,13 +1,17 @@
 ### Hi there 👋
+
 ## I am a Tech Enthusiast,Movie Buff and Like Learning New Things.
 
 
 Here are some ideas to get you started:
-
+- 🤔 Exploring new technologies and developing software solutions and quick hacks.
 - 🔭 I’m currently working on DSA
 - 🌱 I’m currently learning Mern Stack and Python.
 - 💬 Ask me about Java ,Python & Node/React/Express.
 - 📫 How to reach me: divisht.avion@gmail.com
+
+  <!--<img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>-->
+  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 
@@ -18,6 +22,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/divishtk
 "><img align="left" alt="medium" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <img align="left" alt="medium" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></br></br></br>
+
 
 
 
@@ -43,7 +48,7 @@ Here are some ideas to get you started:
 
 
 ### Frameworks Stack:
-<img align="left" alt="medium" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 <img align="left" alt="medium" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 <img align="left" alt="medium" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img align="left" alt="medium" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -84,7 +89,11 @@ Here are some ideas to get you started:
 
 
 
-![Divishts GitHub stats](https://github-readme-stats.vercel.app/api?username=divishtk)
+<!--![Divishts GitHub stats](https://github-readme-stats.vercel.app/api?username=divishtk)-->
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=divishtk&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divishtk&theme=buefy&layout=compact" />
+</a>
 
 
 
