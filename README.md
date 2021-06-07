@@ -2,7 +2,7 @@
 
 ## I am a Tech Enthusiast,Movie Buff and Like Learning New Things.
 
-  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" >
+  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" ></br>
 Here are some ideas to get you started:
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 - 🔭 I’m currently working on DSA
