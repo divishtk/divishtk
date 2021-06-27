@@ -1,0 +1,209 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Apercu, "Source Sans Pro", 
+    BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+  color: #444452;
+  background-color: #fff;
+  line-height: 1.5;
+  width: 100%;
+}
+
+.intro {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 20px 70px;
+  margin: 0 auto;
+}
+
+.intro-hello {
+  font-weight: 300;
+  font-size: 29px;
+letter-spacing:2px ;
+}
+
+
+.intro-tagline {
+
+
+    font-weight: 300;
+    font-size: 23px;
+    letter-spacing:2px ;
+    width: 270px;
+
+
+
+}
+
+.intro-tagline a{
+
+text-decoration: none;
+font-weight: 500;
+color: #444452;
+
+
+}
+
+.name {
+  font-weight: 500;
+}
+
+
+.intro__contact{
+    font-weight: 300;
+    font-size: 15px;
+    letter-spacing:2px ;
+
+}
+
+
+.tag{
+position: relative;
+
+
+}
+/*.emoji {
+    display: inline-block;
+    vertical-align: text-top;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;}*/
+
+
+
+
+    .intro-tagline .emoji{
+        background-image: url(Boy.png);
+
+
+        display: inline-block;
+        vertical-align: text-top;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        width:30px;
+        height:30px;
+        position: absolute;
+
+    }
+
+
+
+    .intro__contact a{
+
+        text-decoration: none;
+        color: #444452;
+        font-weight: 400;
+
+
+    }
+
+.intro__contact  .highlight-link{
+
+    box-shadow: inset 0 -3px 0 #007bff;
+    padding:5px 0;
+
+}
+
+
+
+.intro__contact .pointer{
+
+    font-size:20px;
+}
+
+
+
+/*animated hand*/
+.wave {
+  animation-name: wave-animation; /* Refers to the name of your @keyframes element below */
+  animation-duration: 2.5s; /* Change to speed up or slow down */
+  animation-iteration-count: infinite; /* Never stop waving :) */
+  transform-origin: 70% 70%; /* Pivot around the bottom-left palm */
+  display: inline-block;
+}
+
+@keyframes wave-animation {
+  0% {
+    transform: rotate(0deg);
+  }
+  10% {
+    transform: rotate(14deg);
+  } /* The following five values can be played with to make the waving more or less extreme */
+  20% {
+    transform: rotate(-8deg);
+  }
+  30% {
+    transform: rotate(14deg);
+  }
+  40% {
+    transform: rotate(-4deg);
+  }
+  50% {
+    transform: rotate(10deg);
+  }
+  60% {
+    transform: rotate(0deg);
+  } /* Reset for the last half to pause */
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+
+/*For table 768 px*/
+
+@media only screen and (min-width: 768px){
+
+.intro{
+
+    padding:80px;
+
+}
+
+
+.intro-hello{
+
+    font-size:30px;
+
+}
+
+
+.intro-tagline{
+
+    font-size:30px;
+    width: 100%;
+
+}
+    
+.intro-tagline .emoji{
+
+top: 49px;
+
+}
+
+
+.intro__contact{
+
+
+    font-size:17px;
+   /* font-display: \1F449    ;*/
+
+}
+
+.intro-tagline .emoji{
+
+width: 50px;
+height: 50px;
+top: 38px;
+
+
+}
+
+
+}
