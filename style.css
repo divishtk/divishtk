@@ -105,7 +105,7 @@ position: relative;
 
 .intro__contact  .highlight-link{
 
-    box-shadow: inset 0 -3px 0 #007bff;
+    box-shadow: inset 0 -2px 0 #007bff;
     padding:5px 0;
 
 }
@@ -220,7 +220,7 @@ top: 38px;
 
   .tag{
 
-    width: 65%;
+    width: 69%;
     font-size: 1.2em;
 
 
