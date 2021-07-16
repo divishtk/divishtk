@@ -128,7 +128,8 @@ position: relative;
   display: inline-block;
 }
 
-@keyframes wave-animation {
+@keyframes wave-animation 
+{
   0% {
     transform: rotate(0deg);
   }
@@ -205,5 +206,45 @@ top: 38px;
 
 }
 
+
+}
+
+@media only screen and (min-width: 1020px){
+
+  .intro-hello {
+    font-weight: 300;
+    font-size: 2.5em;
+  letter-spacing:2px ;
+    margin-top: 60px;
+  }
+
+  .tag{
+
+    width: 65%;
+    font-size: 1.2em;
+
+
+  }
+
+  .emoji{
+
+    
+    margin:10px 0;
+    padding:30px 0;
+  }
+
+
+  .intro__contact{
+    font-weight: 200;
+    font-size: 1.1em;
+  letter-spacing:2px ;
+  }
+  
+  .intro{
+
+    margin-bottom: 190px 0;
+    width: 80%;
+    margin-left: 10px;
+  }
 
 }
