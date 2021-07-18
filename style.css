@@ -199,7 +199,6 @@ font-size:0.6em;
   width:100%;
   max-width: 650px;
   font-weight: 300;
-  display:flex;
 
 }
 
@@ -216,6 +215,19 @@ font-size:0.6em;
   word-spacing: 2px;
 }
 
+
+.background-section {
+  margin: 1em 0;
+}
+
+
+.section-content a{
+
+  text-decoration: none;
+  font-weight: 700;
+  color:inherit;
+
+}
 
 /*For table 768 px*/
 
