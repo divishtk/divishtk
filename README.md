@@ -5,9 +5,9 @@
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" ></br>
 Here are some ideas to get you started:
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
-- 🔭 I’m currently working on DSA
-- 🌱 I’m currently learning Mern Stack and Python.
-- 💬 Ask me about Java ,Python & Node/React/Express.
+- 🔭 I’m currently working at EDS as Software Engineer Intern.
+- 🌱 I’m currently learning Ngrx And Mean.
+- 💬 Ask me about Java and Mean.
 - 📫 How to reach me: divisht.avion@gmail.com
 
   <!--<img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>-->
