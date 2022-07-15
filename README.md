@@ -5,8 +5,8 @@
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" ></br>
 Here are some ideas to get you started:
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
-- 🔭 I’m currently working at EDS as Software Engineer Intern.
-- 🌱 I’m currently learning Ngrx And Mean.
+- 🔭 I  worked at EDS as Software Engineer Intern.
+- 🌱 On tech Ngrx And Mean.
 - 💬 Ask me about Java and Mean.
 - 📫 How to reach me: divisht.avion@gmail.com
 
