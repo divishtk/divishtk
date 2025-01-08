@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-## I am a Tech Enthusiast,Movie Buff and Like Learning New Things.
+## I am a Software Engineer ,Movie Buff and Like Learning New Things.
 
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" ></br>
 Here are some ideas to get you started:
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
-- 🔭 I  worked at EDS as Software Engineer Intern.
-- 🌱 On tech Ngrx And Mean.
-- 💬 Ask me about Java and Mean.
-- 📫 How to reach me: divisht.avion@gmail.com
+- 🔭 Working currently at Saint Gobain as a Software Engineer.
+- 🌱 On Mean.
+- 💬 Ask me about anything xD
+- 📫 How to reach me: divishtk.sde@gmail.com
 
   <!--<img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>-->
   
