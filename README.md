@@ -5,7 +5,7 @@
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" ></br>
 Here are some ideas to get you started:
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
-- 🔭 Working currently at Saint Gobain as a Software Engineer.
+- 🔭 Working at Saint Gobain as a Software Engineer.
 - 🌱 On Mean.
 - 💬 Ask me about anything xD
 - 📫 How to reach me: divishtk.sde@gmail.com
